@@ -9,7 +9,7 @@ h1{
 h2{
     font-size:60px;
 }
-.my-header-two{
+.my-header{
     color:#ffA500;
 }
 .anchor-tag{
@@ -23,10 +23,42 @@ h2{
 }
 .half-width{
     width:50%;
+    margin-left: 7%;
 }
-section{
+.first-container{
     display:flex;
 }
 .half-width img{
     width:100%;
+}
+.my-mission{
+    text-align:center;
+}
+.middle-container{
+    width: 100%;
+    display: flex;
+   
+}
+.middle-container img{
+    width: 100%;
+   
+}
+.ills-item{
+    box-shadow: 10px 20px 35px salmon;
+    margin-left:5%;
+    margin-right:5%;
+    border-radius: 10px;
+    padding-left: 25px;
+}
+section{
+    margin-bottom: 250px;
+}
+#item1{
+    background-color: tomato;
+}
+#item2{
+    background-color: brown;
+}
+#item3{
+    background-color: coral;
 }
