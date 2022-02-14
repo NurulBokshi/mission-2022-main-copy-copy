@@ -27,6 +27,7 @@ h2{
 }
 .first-container{
     display:flex;
+   
 }
 .half-width img{
     width:100%;
@@ -51,7 +52,7 @@ h2{
     padding-left: 25px;
 }
 section{
-    margin-bottom: 250px;
+    margin-top:150px;   
 }
 #item1{
     background-color: tomato;
@@ -61,4 +62,17 @@ section{
 }
 #item3{
     background-color: coral;
+}
+footer{
+    background-color:black;
+    text-align: center;
+}
+.text-color{
+    color: whitesmoke;
+}
+.txt{
+    color:#ff4500;
+}
+#my-pera{
+    color:aliceblue;
 }
