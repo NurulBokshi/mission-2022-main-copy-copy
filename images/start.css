@@ -3,4 +3,37 @@ body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Fjalla One', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin-top:0;
+}
+.Stay-font{
+    color:#ffA500;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+.EXPLORE{
+    text-decoration:none;
+    background-color: #ffA500;
+    padding:18px;
+    border-radius: 10px;
+    font-size:25px;
+    color:aqua;
+}
+.stay-focused{
+    border-left: 3px solid fuchsia;
+    border-image-slice:1;
+}
+.stay-flex{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+}
+.half-width img{
+    width: 100%;
+    margin-right: 10%;
 }
