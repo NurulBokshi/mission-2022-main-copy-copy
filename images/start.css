@@ -70,3 +70,28 @@ h2{
     padding: 10px 20px;
     border-radius: 15px;
 }
+.develop-flex{
+    display: flex;
+    margin-top: 130px;
+}
+.project img{
+    width: 100%;
+}
+.global-flex{
+    display: flex;
+    margin-top: 130px;
+}
+.footer-sec{
+    text-align: center;
+}
+.footer-sec h1{
+    font-size: 30px;
+    color:coral;
+}
+.footer-sec p{
+    color:coral;
+}
+footer{
+    background-color: black;
+    margin-top: 130px;
+}
