@@ -1,0 +1,34 @@
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Staatliches', cursive;
+    margin-left: 10%;
+}
+h1{
+    font-size: 58px;
+}
+h2{
+    font-size: 53px;
+}
+.explore{
+    text-decoration: none;
+    background-color: #ffA500;
+    padding:12px;
+    font-size:20px;
+
+}
+.stay-focused{
+     border-left:3px solid sandybrown;
+}
+.stay-flex{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+    
+}
