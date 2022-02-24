@@ -21,6 +21,7 @@ h2{
 }
 .stay-focused{
      border-left:3px solid sandybrown;
+     border-image-slice: 1;
 }
 .stay-flex{
     display:flex;
@@ -31,4 +32,41 @@ h2{
 .half-width img{
     width: 100%;
     
+}
+.mission-style{
+    color:tomato;
+}
+#my-mission{
+    text-align: center;
+}
+.illustrators-flex{
+    display:flex;
+}
+.illustrators-flex img{
+    margin-left: 5%;
+    width: 100%;
+}
+.illus-img img{
+    height: 50%;
+    width: 50%;
+}
+.illustrators-flex .illus-img{
+
+    width: 50%;
+    margin: 25px;
+}
+#illus-one{
+    background-color: rgb(240, 8, 54);
+    padding: 5%;
+    border-radius:10px
+}
+#illus-two{
+    background-color: rgb(233, 31, 9);
+    padding: 5%;
+    border-radius:10px;
+}
+#illus-three{
+    background-color: rgb(248, 8, 248);
+    padding: 5%;
+    border-radius:10px;
 }
